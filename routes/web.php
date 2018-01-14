@@ -22,3 +22,5 @@ Route::post('users', 'UsersController@postInfos');
 Route::get('contact', 'ContactController@getForm');
 
 Route::post('contact', 'ContactController@postForm');
+
+//comment to test git
